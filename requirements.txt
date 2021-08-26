@@ -1,0 +1,12 @@
+keras==2.4.3
+matplotlib==3.3.2
+tensorflow==2.5.0
+numpy
+pandas==1.2.5
+seaborn==0.11.0
+visualkeras==0.0.2
+pydot==1.4.1
+umap-learn[plot]
+umap-learn
+opencv-python
+session_info
